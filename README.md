@@ -1,4 +1,4 @@
-# sales_performance_dashboar 
+# sales_performance_dashboard
 #Sales Performance Dashboard (EDA & Visualization)
 
 ## Project Objective

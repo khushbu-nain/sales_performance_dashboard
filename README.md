@@ -139,6 +139,8 @@ B.Tech CSE Student
 
 Passionate about **Data Science, Python, and Machine Learning**.
 
+Connect with me on GitHub: https://github.com/khushbu-nain
+
 ---
 
 ⭐ If you found this project useful, don't forget to star the repository!
